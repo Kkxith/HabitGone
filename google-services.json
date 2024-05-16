@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "848172217652",
+    "project_id": "habit-gone",
+    "storage_bucket": "habit-gone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848172217652:android:352846c7fd40adc3622161",
+        "android_client_info": {
+          "package_name": "com.codeliner.habits"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmExZUs6GensjLAqIxRc_GXm7azCh7weE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
